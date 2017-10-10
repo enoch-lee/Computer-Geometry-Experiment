@@ -1,0 +1,14 @@
+﻿  HW1_2step_remove_distortion.cpp
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(13): error C2871: 'cv': a namespace with this name does not exist
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(15): error C2146: syntax error: missing ';' before identifier 'image_original'
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(45): error C2065: 'EVENT_LBUTTONDOWN': undeclared identifier
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(51): error C2065: 'image_original': undeclared identifier
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(51): error C3861: 'Point': identifier not found
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(51): error C3861: 'CV_RGB': identifier not found
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(51): error C3861: 'circle': identifier not found
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(55): error C2065: 'image_original': undeclared identifier
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(55): error C3861: 'imshow': identifier not found
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(58): error C2146: syntax error: missing ')' before identifier 'img_original'
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(58): error C2143: syntax error: missing ';' before '{'
+c:\users\zishuo li\documents\visual studio 2015\projects\hw1_2step_remove_distortion\hw1_2step_remove_distortion\hw1_2step_remove_distortion.cpp(58): error C2447: '{': missing function header (old-style formal list?)
